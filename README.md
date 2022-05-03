@@ -66,5 +66,6 @@ fun main() {
 
 <br/>
 
-| [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=leijendary&theme=tokyonight&layout=compact&show_icons=true)](https://github.com/leijendary/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leijendary&layout=compact&theme=tokyonight)](https://github.com/leijendary/github-readme-stats) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=leijendary&theme=tokyonight&layout=compact&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/leijendary/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leijendary&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/leijendary/github-readme-stats) |
+| - | - |
+
