@@ -8,15 +8,9 @@ I'm a Full Stack Software Engineer and AWS Certified Solutions Architect based i
 
 ```python
 class SoftwareEngineer:
-    def __init__(
-            self,
-            name="Jonathan Leijendekker",
-            role="Software Engineer",
-            languages=["nl_NL", "en_US"]
-    ):
-        self.name = name
-        self.role = role
-        self.languages = languages
+    name = "Jonathan Leijendekker"
+    role = "Software Engineer"
+    languages = ["nl_NL", "en_US"]
 
     def sayHi(self):
         print("If it works, don't touch it!")
