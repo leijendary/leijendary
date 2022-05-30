@@ -6,18 +6,19 @@ I'm a Full Stack Software Engineer and AWS Certified Solutions Architect based i
 
 <br />
 
-```python
-class SoftwareEngineer:
-    name = "Jonathan Leijendekker"
-    role = "Software Engineer"
-    languages = ["nl_NL", "en_US"]
+```kotlin
+data class SoftwareEngineer(
+    val name: String = "Jonathan Leijendekker",
+    val role: String = "Software Engineer",
+    val languages: List<String> = listOf("nl_NL", "en_US")
+) {
+    fun sayHi() = println("If it works, don't touch it!")
+}
 
-    def sayHi(self):
-        print("If it works, don't touch it!")
-
-
-me = SoftwareEngineer()
-me.sayHi()
+fun main() {
+    val me = SoftwareEngineer()
+    me.sayHi()
+}
 ```
 
 <br/>
@@ -29,10 +30,10 @@ me.sayHi()
 <br/>
 
 ![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
