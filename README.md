@@ -31,6 +31,7 @@ fun main() {
 
 ![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
+![Android](https://img.shields.io/badge/Android-black?style=flat&logo=android)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
@@ -39,7 +40,6 @@ fun main() {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apache-kafka)
-![Android](https://img.shields.io/badge/Android-black?style=flat&logo=android)
 ![React Native](https://img.shields.io/badge/React%20Native-black?style=flat&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
