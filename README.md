@@ -31,10 +31,10 @@ fun main() {
 
 ![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat&logo=flutter)
 ![Android](https://img.shields.io/badge/Android-black?style=flat&logo=android)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
