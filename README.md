@@ -39,6 +39,8 @@ fun main() {
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/Angular-black?style=flat&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apache-kafka)
 ![React Native](https://img.shields.io/badge/React%20Native-black?style=flat&logo=react)
