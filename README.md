@@ -54,7 +54,6 @@ fun main() {
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat&logo=elasticsearch)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat&logo=graphql)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2fCD-black?style=flat&logo=gitlab)
