@@ -49,7 +49,7 @@ fun main() {
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github-actions)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-black?style=flat&logo=openapi-initiative)
 
 ### Secondary
