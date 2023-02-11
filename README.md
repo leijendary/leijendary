@@ -21,6 +21,12 @@ fun main() {
 }
 ```
 
+<p align="center">
+    <a href="https://www.youracclaim.com/badges/c9428ba1-bd1d-4667-9887-646a8cecf251/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate" height="200">
+    </a>
+</p>
+
 <br/>
 
 ## 🔨 Tech Stacks
