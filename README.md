@@ -33,12 +33,12 @@ fun main() {
 
 ### Main
 
-![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-black?style=flat&logo=amazon-aws)
-![Lambda](https://img.shields.io/badge/Lambda-black?style=flat&logo=aws-lambda)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
+![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-black?style=flat&logo=amazon-aws)
+![Lambda](https://img.shields.io/badge/Lambda-black?style=flat&logo=aws-lambda)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-black?style=flat&logo=openapi-initiative)
 ![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat&logo=junit5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
