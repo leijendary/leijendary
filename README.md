@@ -10,7 +10,7 @@ I'm a Full Stack Software Engineer and AWS Certified Solutions Architect based i
 data class SoftwareEngineer(
     val name: String = "Jonathan Leijendekker",
     val role: String = "Software Engineer",
-    val languages: List<String> = listOf("nl_NL", "en_US")
+    val languages: Set<String> = setOf("nl_NL", "en_US")
 ) {
     fun sayHi() = println("If it works, don't touch it!")
 }
