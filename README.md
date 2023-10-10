@@ -1,4 +1,4 @@
-# Hallo, I'm [Jonathan Leijendekker](https://linkedin.com/in/jonathan-leijendekker) 👋
+# [Hallo, I'm Jonathan Leijendekker](https://linkedin.com/in/jonathan-leijendekker) 👋
 
 <br />
 
