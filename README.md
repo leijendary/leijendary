@@ -17,11 +17,11 @@ func (p *Person) sayHi() {
 }
 
 func main() {
-	person := Person{
+	p := Person{
 		Name: "Jonathan Leijendekker",
 		Role: "Software Engineer",
 	}
-	person.sayHi()
+	p.sayHi()
 }
 ```
 
