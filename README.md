@@ -2,26 +2,28 @@
 
 <br />
 
-I am a Full Stack Software Engineer and AWS Certified Solutions Architect based in the Netherlands. I am always open to collaborating on projects and innovative ideas.
+I am an AWS Certified Solutions Architect and Full Stack Software Engineer based in the Netherlands. I am always open to collaborating on projects and innovative ideas.
 
 <br />
 
-```go
-type Person struct {
-	Name string
-	Role string
+```rust
+struct Person {
+    name: &'static str,
+    role: &'static str,
 }
 
-func (p *Person) sayHi() {
-	fmt.Printf("Hi! I am %s, a %s. If it works, do not touch it!", p.Name, p.Role)
+impl Person {
+    fn hi(&self) {
+        println!("Hi! I am {0}, a {1}. If it works, do not touch it!", self.name, self.role);
+    }
 }
 
-func main() {
-	p := Person{
-		Name: "Jonathan Leijendekker",
-		Role: "Software Engineer",
-	}
-	p.sayHi()
+fn main() {
+    let person = Person {
+        name: "Jonathan Leijendekker",
+        role: "Solutions Architect / Software Engineer"
+    };
+    person.hi();
 }
 ```
 
@@ -37,6 +39,7 @@ func main() {
 
 ### Main
 
+![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)
 ![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
