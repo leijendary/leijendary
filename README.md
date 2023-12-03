@@ -14,7 +14,7 @@ struct Person {
 
 impl Person {
     fn hi(&self) {
-        println!("Hi! I am {0}, a {1}. If it works, do not touch it!", self.name, self.role);
+        println!("Hi! I am {}, a {}. If it works, do not touch it!", self.name, self.role);
     }
 }
 
