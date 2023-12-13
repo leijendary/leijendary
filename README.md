@@ -7,12 +7,12 @@ I am an AWS Certified Solutions Architect and Full Stack Software Engineer based
 <br />
 
 ```rust
-struct Person {
-    name: &'static str,
-    role: &'static str,
+struct Person<'a> {
+    name: &'a str,
+    role: &'a str,
 }
 
-impl Person {
+impl<'a> Person<'a> {
     fn hi(&self) {
         println!("Hi! I am {}, a {}. If it works, do not touch it!", self.name, self.role);
     }
