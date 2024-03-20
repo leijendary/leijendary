@@ -27,7 +27,7 @@ fn main() {
 }
 ```
 
-<p align="center">
+<p align="center" data-sourcepos="30:1-31:230">
     <a href="https://www.credly.com/badges/c9428ba1-bd1d-4667-9887-646a8cecf251/public_url" target="_blank">
         <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate">
     </a>
