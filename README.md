@@ -28,8 +28,11 @@ fn main() {
 ```
 
 <p align="center">
-    <a href="https://www.youracclaim.com/badges/c9428ba1-bd1d-4667-9887-646a8cecf251/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/c9428ba1-bd1d-4667-9887-646a8cecf251/public_url" target="_blank" style="text-decoration: none">
         <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate" height="200">
+    </a>
+    <a href="https://www.credly.com/badges/12947df7-c59d-42ae-a329-a7dd7c13edd0/public_url" target="_blank" style="text-decoration: none">
+        <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Solutions Architect - Professional" height="200">
     </a>
 </p>
 
