@@ -1,29 +1,23 @@
-# [Hello, I am Jonathan Leijendekker](https://linkedin.com/in/jonathan-leijendekker) 👋
+# [Hallo! I am Jonathan Leijendekker](https://linkedin.com/in/jonathan-leijendekker) 👋
 
 <br />
 
-I am an AWS Certified Solutions Architect and Full Stack Software Engineer based in the Netherlands. I am always open to collaborating on projects and innovative ideas.
+I am an AWS Certified Solutions Architect and Full Stack Software Engineer based in the Netherlands 🇳🇱. I am always open to collaborating on projects and innovative ideas.
 
 <br />
 
-```rust
-struct Person<'a> {
-    name: &'a str,
-    role: &'a str,
+```kotlin
+data class SoftwareEngineer(
+    val name: String = "Jonathan Leijendekker",
+    val role: String = "Software Engineer",
+    val languages: Set<String> = setOf("nl_NL", "en_US")
+) {
+    fun sayHi() = println("Hi! I am $name, a $role. If it works, don't touch it!")
 }
 
-impl<'a> Person<'a> {
-    fn hi(&self) {
-        println!("Hi! I am {}, a {}. If it works, do not touch it!", self.name, self.role);
-    }
-}
-
-fn main() {
-    let person = Person {
-        name: "Jonathan Leijendekker",
-        role: "Solutions Architect / Software Engineer"
-    };
-    person.hi();
+fun main() {
+    val me = SoftwareEngineer()
+    me.sayHi()
 }
 ```
 
@@ -42,10 +36,10 @@ fn main() {
 
 ### Main
 
-![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)
+![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon-aws)
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-black?style=flat&logo=amazon-aws)
