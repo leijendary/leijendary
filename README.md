@@ -12,16 +12,19 @@ data class SoftwareEngineer(
     val role: String = "Software Engineer",
     val languages: Set<String> = setOf("nl_NL", "en_US")
 ) {
-    fun sayHi() = println("Hi! I am $name, a $role. If it works, don't touch it!")
+    fun greet() = println("Hi! I am $name, a $role. If it works, don't touch it!")
 }
 
 fun main() {
     val me = SoftwareEngineer()
-    me.sayHi()
+    me.greet()
 }
 ```
 
 <p align="center">
+    <a href="https://www.credly.com/badges/2daefe93-3779-442e-b775-246bca182bb7/public_url" target="_blank">
+        <img src="https://images.credly.com/size/200x200/images/ad9ad44b-54b8-4916-ba10-7b131da0b732/capm-600px.png" alt="Certified Associate in Project Management (CAPM)®">
+    </a>
     <a href="https://www.credly.com/badges/c9428ba1-bd1d-4667-9887-646a8cecf251/public_url" target="_blank">
         <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate">
     </a>
