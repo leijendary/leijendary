@@ -25,11 +25,11 @@ fun main() {
     <a href="https://www.credly.com/badges/2daefe93-3779-442e-b775-246bca182bb7/public_url" target="_blank">
         <img src="https://images.credly.com/size/200x200/images/ad9ad44b-54b8-4916-ba10-7b131da0b732/capm-600px.png" alt="Certified Associate in Project Management (CAPM)®">
     </a>
-    <a href="https://www.credly.com/badges/c9428ba1-bd1d-4667-9887-646a8cecf251/public_url" target="_blank">
-        <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate">
-    </a>
     <a href="https://www.credly.com/badges/12947df7-c59d-42ae-a329-a7dd7c13edd0/public_url" target="_blank">
         <img src="https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Solutions Architect - Professional">
+    </a>
+    <a href="https://www.credly.com/badges/c9428ba1-bd1d-4667-9887-646a8cecf251/public_url" target="_blank">
+        <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate">
     </a>
 </p>
 
