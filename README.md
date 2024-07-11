@@ -2,7 +2,7 @@
 
 <br />
 
-I am an AWS Certified Solutions Architect and Full Stack Software Engineer based in the Netherlands 🇳🇱. I am always open to collaborating on projects and innovative ideas.
+I am a Full Stack Software Engineer and a certified AWS Solutions Architect Professional based in the Netherlands 🇳🇱. I am always open to collaborating on projects and innovative ideas..
 
 <br />
 
