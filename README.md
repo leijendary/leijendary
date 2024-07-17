@@ -9,7 +9,7 @@ I am a Full Stack Software Engineer and a certified AWS Solutions Architect Prof
 ```kotlin
 data class Human(
     val name: String = "Jonathan Leijendekker",
-    val role: String = "Software Engineer",
+    val role: String = "Full Stack Software Engineer",
     val languages: Set<String> = setOf("nl_NL", "en_US")
 ) {
     fun greet() = println("Hi! I am $name, a $role. If it works, don't touch it!")
