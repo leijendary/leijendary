@@ -23,13 +23,13 @@ fun main() {
 
 <p align="center">
     <a href="https://www.credly.com/badges/2daefe93-3779-442e-b775-246bca182bb7/public_url" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" alt="Certified Associate in Project Management (CAPM)®">
+        <img src="https://images.credly.com/size/200x200/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" alt="Certified Associate in Project Management (CAPM)®" height="150">
     </a>
     <a href="https://www.credly.com/badges/12947df7-c59d-42ae-a329-a7dd7c13edd0/public_url" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Solutions Architect - Professional">
+        <img src="https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Solutions Architect - Professional" height="150">
     </a>
     <a href="https://www.credly.com/badges/c9428ba1-bd1d-4667-9887-646a8cecf251/public_url" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate">
+        <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate" height="150">
     </a>
 </p>
 
